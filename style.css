@@ -1,0 +1,45 @@
+nav a{
+    float: left;
+    display: block;
+    color: #E0E0E0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.login-button{
+    float: right;
+    display: block;
+    width: 77.796px;
+height: 32.512px;
+border: 0.871px solid #FCC822;
+color: #FCC822;
+}
+.home{
+    display: flex;
+}
+.line{
+    display: flex;
+    width: 1.161px;
+height: 26.706px;
+background-color: black;
+}
+.para{
+    display: flex;
+    color: #828282;
+font-family: Roboto;
+font-size: 13.934px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#btn{
+    width: 119.597px;
+height: 37.156px;
+color: #FFF;
+font-size: 13.934px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+background: linear-gradient(95deg, #FCC822 0%, #FFCD2E 100%);
+box-shadow: 0px 10.45px 23.223px -6.967px #FBE18F;
+}
